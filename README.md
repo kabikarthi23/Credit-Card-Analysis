@@ -46,8 +46,11 @@ Based on the analysis, I proposed the following features:
 ## 🖼️ Dashboard Preview
 
 
+https://github.com/kabikarthi23/Credit-Card-Analysis/blob/main/Dashboard_page1.png
+*Page 1 - Demographic Analysis * 
 
-*Above: Page 1 - Demographic Analysis | Page 2 - Spending Analysis*
+https://github.com/kabikarthi23/Credit-Card-Analysis/blob/main/Dashboard_page2.png
+* Page 2 - Spending Analysis*
 
 ---
 
