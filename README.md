@@ -45,12 +45,11 @@ Based on the analysis, I proposed the following features:
 
 ## 🖼️ Dashboard Preview
 
+### Page 1: Demographic Analysis
+![Credit-Card-Analysis](Dashboard_page1.png)
 
-https://github.com/kabikarthi23/Credit-Card-Analysis/blob/main/Dashboard_page1.png
-*Page 1 - Demographic Analysis * 
-
-https://github.com/kabikarthi23/Credit-Card-Analysis/blob/main/Dashboard_page2.png
-* Page 2 - Spending Analysis*
+### Page 2: Spending Analysis
+![Credit-Card-Analysis](Dashboard_page2.png)
 
 ---
 
